@@ -1,6 +1,7 @@
 Steps to work on this course project:
 
 1-  Copy the R script run_analysis.r.
+
 2-  Run the script. 
 
 PS: In line:
